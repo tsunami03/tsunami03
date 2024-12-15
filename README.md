@@ -10,6 +10,6 @@
 - 💼 I previously worked at [Salesforce](https://www.salesforce.com/in/) as an SWE Intern 
 - 📫 How to reach me: [@priyadarshini03](https://www.linkedin.com/in/priyadarshini03/) on LinkedIn
 - 📖 Currently learning Java Spring and ML 
-- 🤿 Diving into the vast world of Finance and GenAI
-- ⚡ Fun fact: I love writing poetry and blogs  
+- 🤿 Diving into the vast world of Finance 💸 and GenAI 🤖
+- ⚡ Fun fact: I ❤️ writing poetry and blogs  
 
