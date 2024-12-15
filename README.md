@@ -1,16 +1,15 @@
-## Hi there 👋
+<h2 align="center"> Hello! I'm Priyadarshini 👋 </h2>
+<p align="center">
+<!--   <a href="https://blog.athulcyriac.in"> Blog </a> • -->
+  <a href="https://www.linkedin.com/in/priyadarshini03/"> LinkedIn </a>
+</p>
 
-<!--
-**tsunami03/tsunami03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I'm a web developer experienced in MERN stack and Blockchain
+- 🏫 A fourth year B.Tech student at IIIT Allahabad 
+- ⭐ Done 600+ questions on [Leetcode]([url](https://leetcode.com/u/tsunami_/)) and achieved Knight level 
+- 💼 I previously worked at [Salesforce]([url](https://www.salesforce.com/in/)) as an SWE Intern 
+- 📫 How to reach me: [@priyadarshini03](https://www.linkedin.com/in/priyadarshini03/) on LinkedIn
+- 📖 Currently learning Java Spring and ML 
+- 🤿 Diving into the vast world of Finance and GenAI
+- ⚡ Fun fact: I love writing poetry and blogs  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
