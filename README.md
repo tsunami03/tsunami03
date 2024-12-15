@@ -1,15 +1,11 @@
-<h2 align="center"> Hello! I'm Priyadarshini 👋 </h2>
-<p align="center">
-<!--   <a href="https://blog.athulcyriac.in"> Blog </a> • -->
-  <a href="https://www.linkedin.com/in/priyadarshini03/"> LinkedIn </a>
-</p>
+### Hi I'm Priyadarshini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-- 💻 I'm a web developer experienced in MERN stack and Blockchain
-- 🏫 A fourth year B.Tech student at IIIT Allahabad 
-- ⭐ Done 600+ questions on [Leetcode](https://leetcode.com/u/tsunami_/) and achieved Knight level 
-- 💼 I previously worked at [Salesforce](https://www.salesforce.com/in/) as an SWE Intern 
-- 📫 How to reach me: [@priyadarshini03](https://www.linkedin.com/in/priyadarshini03/) on LinkedIn
-- 📖 Currently learning Java Spring and ML 
-- 🤿 Diving into the vast world of Finance 💸 and GenAI 🤖
-- ⚡ Fun fact: I ❤️ writing poetry and blogs  
+- 💻 &nbsp;I'm a web developer experienced in MERN stack and Blockchain
+- 🏫 &nbsp;A fourth year undegrad student at IIIT Allahabad
+- 📖 &nbsp;Currently learning Java Spring and ML 
+- 🤿 &nbsp;Diving into the vast world of Finance 💸 and GenAI 🤖
+- ✈️ &nbsp;Know more about me from my [resume](https://drive.google.com/file/d/1ZZSNrI5olLNJ-wBWu-bBtCiEs674s1C-/view)
+- 📫 &nbsp;How to reach me: [@priyadarshini03](https://www.linkedin.com/in/priyadarshini03/) on LinkedIn
+- ⚡ &nbsp;Fun fact: I ❤️ writing poetry and blogs  
+
 
