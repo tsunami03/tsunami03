@@ -23,5 +23,6 @@ I am a Full Stack Developer currently in my last year of B.Tech (Information Tec
 - Was a maintainer for [OpenCode](https://github.com/opencodeiiita) (2022) on a repo called [Learning Smart Contracts](https://github.com/opencodeiiita/Learning-Smart-Contracts)
 - Received a cash scholarship from the [Google WE Program](https://we.talentsprint.com/)
 - Currently rated 1850+ with a Knight Level on [Leetcode](https://leetcode.com/tsunami)
+- [Top contributor](https://www.linkedin.com/posts/priyadarshini03_thank-you-metafy-for-this-beautiful-t-shirt-activity-7011037000979910657-w9HN/?utm_source=share&utm_medium=member_desktop) at [Metafy](https://github.com/metafy-social/web3-smart-contracts) during Hacktoberfest 2022
 - Top contributor (2022) at the [Web3.0 Summit](https://x.com/Gdsciiita/status/1528047979902509057), GDSC IIIT Allahabad 
 - 3rd Place, APK Month Leaderboard (2022), IIIT Allahabad
