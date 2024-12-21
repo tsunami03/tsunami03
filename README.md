@@ -23,3 +23,5 @@ I am a Full Stack Developer currently in my last year of B.Tech (Information Tec
 - Was a maintainer for [OpenCode](https://github.com/opencodeiiita) (2022) on a repo called [Learning Smart Contracts](https://github.com/opencodeiiita/Learning-Smart-Contracts)
 - Received a cash scholarship from the [Google WE Program](https://we.talentsprint.com/)
 - Currently rated 1850+ with a Knight Level on [Leetcode](https://leetcode.com/tsunami)
+- Top contributor (2022) at the [Web3.0 Summit](https://x.com/Gdsciiita/status/1528047979902509057), GDSC IIIT Allahabad 
+- 3rd Place, APK Month Leaderboard (2022), IIIT Allahabad
